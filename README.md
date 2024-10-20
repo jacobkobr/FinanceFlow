@@ -1,19 +1,16 @@
 ## Features
 
 - **Check Tracking**: Easily input your check amount and the date it was received.
-- **Savings Allocation**: Automatically allocates 35% of your check toward savings.
-- **Food Expense Allocation**: Allocates 15% of your check toward food expenses.
-- **Savings Goal Progress**: Set savings goals and track your progress over time.
+- **Savings Allocation**: Select custom categories and allocate specific percentages of their check for personalized budgeting.
 - **Google Sheets Integration**: Export check details and financial data directly to Google Sheets.
 
-![Application Screenshot](assets/financeflow.png)
+![Application Screenshot](assets/financeflowv2.png)
 
 ## Technologies Used
 
 - **Java**
 - **Swing**
-- **Google Sheets API**
-- **Maven**
+- **Google Sheets API with OAuth 2.0**
 
 ## To use this application with Google Sheets, you will need to set up your own Google Cloud project and enable the Google Sheets API.
 
