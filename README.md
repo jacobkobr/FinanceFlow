@@ -4,7 +4,7 @@
 - **Savings Allocation**: Select custom categories and allocate specific percentages of their check for personalized budgeting.
 - **Google Sheets Integration**: Export check details and financial data directly to Google Sheets.
 
-![Application Screenshot](assets/financeflowv2.png)
+![Application Screenshot](assets/financeflowv2sheet.png)
 
 ## Technologies Used
 
